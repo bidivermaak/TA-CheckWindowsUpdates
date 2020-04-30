@@ -1,5 +1,5 @@
 # TA-CheckWindowsUpdates
-Splunk app to facilitate offline checks for windows updates and report results into Splunk.  Downloads most recent wsusus, only when needed, from specified s3 bucket.
+Splunk app to facilitate offline checks for missing windows updates and report results into Splunk.  Downloads most recent wsusus, only when needed, from specified s3 bucket.
 
 ## Search Syntax:
 ```SPL
