@@ -1,5 +1,5 @@
 # TA-CheckWindowsUpdates
-Splunk app to invoke checks for missing windows updates and report results into Splunk.  Downloads most recent windows software update scan package (wsusscn2.cab), using BITS, from specified s3 bucket.  
+Splunk app to invoke checks for missing windows updates and report results into Splunk.  Downloads most recent windows software update scan package (wsusscn2.cab) from specified s3 bucket.  
 
 ## Search Syntax:
 ```SPL
